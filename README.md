@@ -15,7 +15,7 @@
 
 <br>
 
-![Alt](https://repobeats.axiom.co/api/embed/92453ea2e7d1e4a43c6b5f45a151ce87ce0db261.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/14fc6f787b6d9b08d8aba84ddede07aa825dd8b6.svg "Repobeats analytics image")
 
 ## [【QQ群 641596647】](https://hacktools.store/qqgroup)
 [**New Issue**](https://github.com/Xrhhhilo/GSDLoader/issues/new) 点击此处，提交你的问题。
